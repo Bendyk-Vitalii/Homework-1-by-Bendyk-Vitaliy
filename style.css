@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  justify-content: space-between;
+}
+.first{
+  float: left;
+  padding-left: 100px;
+}
+.calculator{
+  float: right;
+  padding-top: 30px;
+  padding-right: 100px;
+}
+
